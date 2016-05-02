@@ -4,7 +4,8 @@ import java.io.FileNotFoundException;
 import java.util.Arrays;
 
 /**
- * Created by MostafaLesani on 3/8/2016.
+ * Created by MostafaBahri on 3/8/2016.
+ * github.com/mostafabahri
  * main Controller
  */
 public class mainFrame {
